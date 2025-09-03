@@ -1,7 +1,8 @@
 # mental-health-counselors
 
 ## To run the app
-
+ go to dev branch
+ 
 1. pip3 install -r requirements.txt
 2. uvicorn app.main:app --reload --port 8000
 
