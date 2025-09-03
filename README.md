@@ -4,7 +4,8 @@
  go to dev branch
  
 1. pip3 install -r requirements.txt
-2. uvicorn app.main:app --reload --port 8000
+2. add the openAI key
+3. uvicorn app.main:app --reload --port 8000
 
 ## To ingest data:
  1. In postman in http://localhost:8000/ingest-csv
