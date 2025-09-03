@@ -1,0 +1,38 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Configuración sensible
+.env
+*.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Archivos de base de datos temporales
+*.db
+*.sqlite3
+
+# Directorios de FAISS / data generada
+data/faiss/
+rag.db
+
+# Logs
+*.log
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Builds/Distribución
+dist/
+build/
+*.egg-info/
