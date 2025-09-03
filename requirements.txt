@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+SQLAlchemy==2.0.35
+python-dotenv==1.0.1
+pandas==2.2.2
+faiss-cpu==1.8.0.post1
+sentence-transformers==3.0.1
+openai==1.51.2
+scikit-learn==1.5.1
+ython-multipart
