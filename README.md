@@ -26,3 +26,5 @@ question:
 answer: 
 source: 
 tags: 
+
+<img width="1062" height="622" alt="Captura de pantalla 2025-09-04 a la(s) 10 13 50 a m" src="https://github.com/user-attachments/assets/bcf4b108-5503-45c6-a785-088598378034" />
